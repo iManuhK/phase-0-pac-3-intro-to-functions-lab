@@ -18,9 +18,9 @@ if (string == string.toLowerCase()){
 if (string == string.toUpperCase()){
     return "YES INDEED!";
 }
-if (string = `Let's have dinner together!`) {
+if (string == `Let's have dinner together!`) {
     return "I would love to!"
 }
 
 }
-//console.log(sayHiToHeadphonedRoommate("Roomate!"))
+//console.log(sayHiToHeadphonedRoommate(`Let's have dinner together!`))
